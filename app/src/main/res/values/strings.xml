@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+    <string name="imagem_foto">Imagem foto</string>
+    <string name="nome">Name</string>
+    <string name="save">Save</string>
+    <string name="birth_planet">Birth Planet</string>
+    <string name="update_task">Atualizar</string>
+    <string name="specie">Specie</string>
+    <string name="procurar_imagem">Procurar imagem</string>
+    <string name="fab">Fab</string>
+    <string name="toolBarFormTitle">Add Task</string>
+    <string name="erroInesperado">"Erro inesperado"</string>
+    <string name="notas">Notas</string>
+
+</resources>
